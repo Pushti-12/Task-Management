@@ -115,6 +115,8 @@ docker rm postgres mongo
 - `PUT /api/tasks/:id` - Update a task (requires auth)
 - `DELETE /api/tasks/:id` - Delete a task (requires auth)
 
+For full API details, example requests/responses, and the OpenAPI spec, see `API_DOCUMENTATION.md` and `openapi.yaml`.
+
 ## Testing
 
 ### Automated Testing
